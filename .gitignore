@@ -4,7 +4,6 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
-MonoBleedingEdge/
 Multiplayer_BurstDebugInformation_DoNotShip/
 
 # Visual Studio cache directory
