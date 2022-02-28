@@ -4,6 +4,8 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/Mirror/Examples*
+Assets/Fonts*
 Multiplayer_BurstDebugInformation_DoNotShip/
 
 # Visual Studio cache directory
